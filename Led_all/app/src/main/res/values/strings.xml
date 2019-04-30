@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Led_all_DHT11_AUTO</string>
+    <string name="help">wifi名字：nishishui,PORT:9999</string>
+    <string name="plain_item">舵机控制</string>
+    <string name="action_settings">设备管理</string>
+</resources>

@@ -1,0 +1,17 @@
+..\obj\function.o: function.c
+..\obj\function.o: function.h
+..\obj\function.o: stm32f10x.h
+..\obj\function.o: ..\CORE\core_cm3.h
+..\obj\function.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\function.o: system_stm32f10x.h
+..\obj\function.o: stm32f10x_conf.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\function.o: ..\USER\stm32f10x.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\function.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\function.o: led.h
+..\obj\function.o: ..\SYSTEM\sys\sys.h
+..\obj\function.o: ..\SYSTEM\delay\delay.h
+..\obj\function.o: beep.h

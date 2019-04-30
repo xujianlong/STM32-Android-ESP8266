@@ -1,0 +1,16 @@
+..\obj\hwjs.o: hwjs.c
+..\obj\hwjs.o: hwjs.h
+..\obj\hwjs.o: stm32f10x.h
+..\obj\hwjs.o: ..\CORE\core_cm3.h
+..\obj\hwjs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\hwjs.o: system_stm32f10x.h
+..\obj\hwjs.o: stm32f10x_conf.h
+..\obj\hwjs.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\hwjs.o: ..\USER\stm32f10x.h
+..\obj\hwjs.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\hwjs.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\hwjs.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\hwjs.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\hwjs.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\hwjs.o: ..\SYSTEM\delay\delay.h
+..\obj\hwjs.o: ..\SYSTEM\sys\sys.h
